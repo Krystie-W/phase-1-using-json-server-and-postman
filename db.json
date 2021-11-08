@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Fourth Article",
+      "content": "Another one for the database!",
+      "id": 4
+    }
+  ]
+}
